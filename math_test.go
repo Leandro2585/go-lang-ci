@@ -1,4 +1,4 @@
-package main
+import main
 
 func TestSum(t *testing.T) {
 	total := Sum(15, 15)
